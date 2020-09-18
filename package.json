@@ -1,0 +1,33 @@
+{
+  "name": "kahrbayoutube",
+  "version": "1.0.0",
+  "description": "kahrbayoutube",
+  "main": "app.js",
+  "repository": {
+    "type": "git",
+    "url": "kahrbayoutube "
+  },
+  "author": "Kahrbaa",
+  "license": "MIT",
+  "bugs": {
+    "url": "kahrbayoutube "
+  },
+  "homepage": "kahrbayoutube",
+  "dependencies": {
+    "discord.js": "^11.5.0",
+    "ms": "^2.1.2",
+    "fs": "^0.0.2",
+    "snekfetch": "^4.0.4",
+    "express": "^4.17.1",
+    "moment": "^2.26.0",
+    "countdown": "^2.6.0",
+    "quick.db": "^7.1.1",
+    "chalk": "^4.0.0"
+  },
+  "engines": {
+    "node": "12.x"
+  },
+  "scripts": {
+    "start": "node app.js"
+  }
+}

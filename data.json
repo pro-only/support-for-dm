@@ -1,0 +1,19 @@
+{
+  "token": "هنا_تحط_تكونك", 
+  "prefix": "هنا_تحط_العلامة",
+  "guild": "هنا_تحط_ايدي_السيرفر",
+  "ticket_category": "هنا_تحط_ايدي_الكتاجوري",
+  "SupportROLE": "هنا_تحط_اسم_الرتبة_حقت_السبورت",
+  "generic": {
+    "footer": "K-TICKET (DM)",
+    "footerURL": "https://cdn.discordapp.com/icons/693858100003733597/4e15c81e619b8ea9a611a984f6a051fd.png?size=1024",
+    "messages": {
+      "noPermissions": "أذونات غير صالحة",
+      "error": "خطأ غير معروف"
+    },
+    "colour": {
+      "error": "8B0000",
+      "Kahrbaa": "000000"
+    }
+  }
+}
